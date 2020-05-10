@@ -32,7 +32,7 @@ body::-webkit-scrollbar{
     align-items: center;
     color: black;
     font-weight: 600;
-    text-shadow: 4px 3px 75px rgba(255,255,255,0.9);
+    text-shadow: 4px 3px 75px rgba(104, 83, 83, 0.9);
   }
 .main-nav{
     display: flex;
@@ -72,7 +72,6 @@ body::-webkit-scrollbar{
 }
 .header{
     font-weight: 500;
-    height:700px;
     width: 100%;
 }
 .header6{
@@ -114,11 +113,10 @@ body::-webkit-scrollbar{
 }
 .image1{
     width: 100%;
-    height:100%;
+
 }
 .video1{
   width: 100%;
-  height:100%;
 }
 @media only screen and (max-width: 600px) {
 
